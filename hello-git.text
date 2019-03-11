@@ -2,3 +2,11 @@ Hello Git!
  First upd In Idea!
  
  在GitHub上修改了一次文件！ by liusj
+
+
+项目创建时，使用 从GIT上导入，
+    然后本地修改文件后，commit 文件（提交到本地库），最后push到GIT
+
+每次提交代码时，记得pull最新代码！
+
+新建文件时，要先add到本地仓库，再commit,再push.
